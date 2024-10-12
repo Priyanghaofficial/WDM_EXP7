@@ -33,7 +33,7 @@ in a network of web pages based on the structure of the links between them.
 
 ### Program:
 
-```python
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -93,5 +93,7 @@ plt.show()
 ```
 
 ### Output:
+![image](https://github.com/user-attachments/assets/3b04a668-29a0-4ff4-bfd2-bbda6a800106)
 
 ### Result:
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
